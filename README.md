@@ -1,9 +1,9 @@
 # Naziv projekta
 
-Autor: Ime Prezime
+Autor: Davor Škiljić
 
-JMBAG:
+JMBAG: 0067439269
 
-Oblik: Redovan/Online
+Oblik: Online
 
 Jedna rečenica: što aplikacija radi i za koju zajednicu.
